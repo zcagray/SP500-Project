@@ -8,7 +8,7 @@ I also analyzed select individual stocks within the S&P 500 to determine how the
 
 The aim is to use basic statistical analysis and data visualization to support my (un)wise decision to allocate 80% of my portfolio to *VOO*, an exchange-traded fund (ETF).
 
-**Click [here]((https://github.com/zgray5/SP500-Project/blob/main/graphs/sp_candlestick.png)) to see an image of the zoomable candlestick visualization for the daily closing prices of the S&P 500.**
+**Click [here](graphs/sp_candlestick.png) to see an image of the zoomable candlestick visualization for the daily closing prices of the S&P 500.**
 
 
 
